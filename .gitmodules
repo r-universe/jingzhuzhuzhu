@@ -7,4 +7,4 @@
 	url = https://github.com/cran/TITEgBOIN
 [submodule "bfboinet"]
 	path = bfboinet
-	url = https://github.com/cran/bfboinet
+	url = https://github.com/jingzhuzhuzhu/bfboinet
